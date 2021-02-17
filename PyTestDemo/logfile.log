@@ -1,0 +1,28 @@
+2021-02-11 18:15:27,391 : INFO : PyTestDemo.BaseClass : Vinod
+2021-02-11 18:15:27,391 : INFO : PyTestDemo.BaseClass : Pawar
+2021-02-11 18:19:21,865 : INFO : PyTestDemo.BaseClass : Vinod
+2021-02-11 18:19:21,865 : INFO : PyTestDemo.BaseClass : Pawar
+2021-02-11 18:20:06,707 : INFO : PyTestDemo.BaseClass : Vinod
+2021-02-11 18:20:06,707 : INFO : PyTestDemo.BaseClass : Pawar
+2021-02-11 19:07:02,825 : INFO : test_editProfile : Vinod
+2021-02-11 19:07:02,833 : INFO : test_editProfile : Pawar
+2021-02-11 19:08:44,368 : INFO : test_editProfile : Vinod
+2021-02-11 19:08:44,368 : INFO : test_editProfile : Pawar
+2021-02-11 19:09:59,027 : INFO : test_editProfile : Vinod
+2021-02-11 19:09:59,027 : INFO : test_editProfile : Pawar
+2021-02-11 19:09:59,105 : INFO : PyTestDemo.test_loggingdemo : Information relatyed with any type
+2021-02-11 19:09:59,105 : WARNING : PyTestDemo.test_loggingdemo : It will show any kind of warning messages
+2021-02-11 19:09:59,105 : ERROR : PyTestDemo.test_loggingdemo : error related with any execution
+2021-02-11 19:09:59,105 : CRITICAL : PyTestDemo.test_loggingdemo : It will show any major error
+2021-02-11 19:11:44,700 : INFO : test_editProfile : Vinod
+2021-02-11 19:11:44,700 : INFO : test_editProfile : Pawar
+2021-02-11 19:12:01,944 : INFO : test_editProfile : Vinod
+2021-02-11 19:12:01,959 : INFO : test_editProfile : Pawar
+2021-02-11 19:12:36,408 : INFO : test_editProfile : Vinod
+2021-02-11 19:12:36,408 : INFO : test_editProfile : Pawar
+2021-02-11 19:12:48,336 : INFO : test_editProfile : Vinod
+2021-02-11 19:12:48,336 : INFO : test_editProfile : Pawar
+2021-02-11 19:12:48,383 : INFO : PyTestDemo.test_loggingdemo : Information relatyed with any type
+2021-02-11 19:12:48,383 : WARNING : PyTestDemo.test_loggingdemo : It will show any kind of warning messages
+2021-02-11 19:12:48,383 : ERROR : PyTestDemo.test_loggingdemo : error related with any execution
+2021-02-11 19:12:48,383 : CRITICAL : PyTestDemo.test_loggingdemo : It will show any major error
