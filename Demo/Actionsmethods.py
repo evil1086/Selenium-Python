@@ -17,7 +17,7 @@ action.double_click(driver.find_element_by_xpath("//button[contains(text(),'Doub
 alert = driver.switch_to.alert
 
 temp = alert.text
-
+# assert verification
 assert temp == "You double clicked me.. Thank You.."
 
 print("assertion working as expected")
