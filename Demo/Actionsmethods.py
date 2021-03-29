@@ -9,7 +9,7 @@ action.move_to_element(mouse_hover).perform()
 child_menu = driver.find_element_by_link_text("Top")
 action.move_to_element(child_menu).click().perform()
 
-# It will redirect on below URL
+
 driver.get("http://demo.guru99.com/test/simple_context_menu.html")
 
 # dbl_click = driver.find_element_by_xpath("//button[text() = 'Double-Click Me To See Alert']")
@@ -21,5 +21,4 @@ temp = alert.text
 assert temp == "You double clicked me.. Thank You.."
 
 print("assertion working as expected")
-print("Test")
 driver.close()
