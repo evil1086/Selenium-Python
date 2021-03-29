@@ -18,7 +18,7 @@ alert = driver.switch_to.alert
 
 temp = alert.text
 # assert verification
-assert temp == "You double clicked me.. Thank You.."
+assert temp == "You double clicked me.. "
 
 print("assertion working as expected")
 print("Test")
