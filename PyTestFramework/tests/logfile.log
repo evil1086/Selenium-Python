@@ -1,0 +1,20 @@
+2021-03-17 10:20:26,016 : INFO : test_e2e : <PageObjects.CheckOutPage.CheckOutPage object at 0x0438CF70>
+2021-03-17 10:20:26,559 : INFO : test_e2e : Checkout has been initiated
+2021-03-17 10:20:27,135 : INFO : test_e2e : Sending country as : IND
+2021-03-17 10:20:33,838 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-18 10:31:29,763 : INFO : test_e2e : <PageObjects.CheckOutPage.CheckOutPage object at 0x000001EAFE753BE0>
+2021-03-18 10:31:30,315 : INFO : test_e2e : Checkout has been initiated
+2021-03-18 10:31:30,767 : INFO : test_e2e : Sending country as : IND
+2021-03-18 10:31:36,800 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-05 17:58:05,755 : INFO : test_e2e : <PageObjects.CheckOutPage.CheckOutPage object at 0x000002651EC5F940>
+2021-04-05 17:58:06,972 : INFO : test_e2e : Checkout has been initiated
+2021-04-05 17:58:07,784 : INFO : test_e2e : Sending country as : IND
+2021-04-05 17:58:13,800 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-10 19:33:06,204 : INFO : test_e2e : <PageObjects.CheckOutPage.CheckOutPage object at 0x000001988B084FD0>
+2021-04-10 19:33:06,784 : INFO : test_e2e : Checkout has been initiated
+2021-04-10 19:33:07,233 : INFO : test_e2e : Sending country as : IND
+2021-04-10 19:33:12,845 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
